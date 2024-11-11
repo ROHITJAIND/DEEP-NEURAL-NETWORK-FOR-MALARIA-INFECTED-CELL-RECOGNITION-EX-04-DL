@@ -7,6 +7,7 @@ The task is to automatically classify red blood cell images into two categories:
 Manual inspection of blood smears is time-consuming and prone to errors. By using deep learning, we can automate the process, speeding up diagnosis, reducing healthcare professionals' workload, and improving detection accuracy.
 The dataset consists of 27,558 annotated cell images, evenly split between parasitized and uninfected cells, providing a reliable foundation for model training and testing.
 ### Neural Network Model
+![EX-04-DL-OUTPUT (5)](https://github.com/user-attachments/assets/5d23b1b2-a0a7-4bfb-9c03-c2a768878aca)
 
 ### Design Steps
 1. **Import Libraries**:Import TensorFlow, data preprocessing tools, and visualization libraries.
